@@ -1,1 +1,2 @@
 # electronica-analogica
+sensor inductivo  
